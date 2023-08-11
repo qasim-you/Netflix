@@ -1,3 +1,3 @@
 # Netflix
-my coding 😊
+my coding 
 clone of netflix
